@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (download or generate; do not commit)
+*.csv
+*.parquet
+data/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
